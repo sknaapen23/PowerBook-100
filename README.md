@@ -9,13 +9,13 @@
 
 
 
-Storage 20–40 MB SCSI hard disk drive internal; external 3.5" floppy disk drive (optional)
+1. Storage 20–40 MB SCSI hard disk drive internal; external 3.5" floppy disk drive (optional)
 
-Proccessor 16 MHz Motorola 68000
+2. Proccessor 16 MHz Motorola 68000
 
-Speed 16 MHz
+3. Speed 16 MHz
 
-Memory RAM 2 MB or 4 MB 
+4. Memory RAM 2 MB or 4 MB 
 
 
 [World Most Powerful Laptop](https://en.wikipedia.org/wiki/PowerBook_100 "World Most Powerful Laptop")
@@ -32,11 +32,11 @@ Memory RAM 2 MB or 4 MB
 </p>
 
 
-A Proccessor 2.4 GHz Quad-Core Intel Core i5[^1]
+1. A Proccessor 2.4 GHz Quad-Core Intel Core i5[^1]
 
-Memory 8 GB 2133 MHz LPDDR3[^2]
+2. Memory 8 GB 2133 MHz LPDDR3[^2]
 
-Grpahics Intel Iris Plus Graphics 655 1536 MB[^3]
+3. Grpahics Intel Iris Plus Graphics 655 1536 MB[^3]
 
 [^1]: Much worse than the PowerBook 100
 
