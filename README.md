@@ -2,6 +2,13 @@
 ##### ~PowerBook-99~
 
 
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Powerbook_100_pose.jpg" width="384" height="300" border="40"/>
+</p>
+
+
+
+
 Storage 20–40 MB SCSI hard disk drive internal; external 3.5" floppy disk drive (optional)
 
 Proccessor 16 MHz Motorola 68000
@@ -18,6 +25,12 @@ Memory RAM 2 MB or 4 MB
   <dd>The Laptop with no limits.</dd>
 
 # MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+
+
+<p align="center">
+<img src="https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP775/sp775-mbp13touch-space.jpeg" width="384" height="300" border="40"/>
+</p>
+
 
 A Proccessor 2.4 GHz Quad-Core Intel Core i5[^1]
 
