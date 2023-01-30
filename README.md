@@ -2,10 +2,7 @@
 ##### ~PowerBook-99~
 
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Powerbook_100_pose.jpg" width="384" height="300" border="40"/>
-</p>
-
+![](powerbook.jpeg)
 
 
 
