@@ -26,10 +26,7 @@
 
 # MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
 
-
-<p align="center">
-<img src="https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP775/sp775-mbp13touch-space.jpeg" width="384" height="300" border="40"/>
-</p>
+![](mac.jpeg)
 
 
 1. A Proccessor 2.4 GHz Quad-Core Intel Core i5[^1]
