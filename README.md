@@ -27,11 +27,11 @@
 ![](mac.jpeg)
 
 
-1. A Proccessor 2.4 GHz Quad-Core Intel Core i5[^1]
+1. A Proccessor 2.4 GHz Quad-Core Intel Core i5[^1]  
 
-2. Memory 8 GB 2133 MHz LPDDR3[^2]
+2. Memory 8 GB 2133 MHz LPDDR3[^2]  
 
-3. Grpahics Intel Iris Plus Graphics 655 1536 MB[^3]
+3. Grpahics Intel Iris Plus Graphics 655 1536 MB[^3]  
 
 [^1]: Much worse than the PowerBook 100
 
