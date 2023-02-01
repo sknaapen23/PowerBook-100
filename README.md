@@ -20,6 +20,7 @@
 <dl>
   <dt>PowerBook-100</dt>
   <dd>The Laptop with no limits.</dd>
+</dl>
 
 # MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
 
